@@ -1,5 +1,5 @@
-<H3>Name : ZAFREEN J </H3> 
-<H3>Register no : 212223040252 </H3>
+<H3>Name : mohamed asil s </H3> 
+<H3>Register no : 212223040112 </H3>
 <H3>Date : 13/09/2024 </H3>
 <H3>Experiment No : 2 </H3>
 ## Implementation of Perceptron for Binary Classification
@@ -167,5 +167,3 @@ plt.show()
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
-
- 
